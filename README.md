@@ -1,4 +1,4 @@
 # Data Stewardship Wizard Common Repository
 
-Used for common [issues](https://github.com/DataStewardshipPortal/dsw-common/issues) and hosts the [documentation](https://github.com/DataStewardshipPortal/dsw-common/wiki).
+This repository is mainly used for reporting bugs from users and gathering ideas which may be nice to implement. Feel free to report bugs or suggest ideas.
 
