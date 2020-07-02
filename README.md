@@ -1,9 +1,17 @@
 # Data Stewardship Wizard Common Repository
 
-This repository is mainly used for reporting bugs from users and gathering ideas which may be nice to implement. Feel free to report bugs or suggest ideas.
+This repository is mainly used for [reporting bugs](https://github.com/ds-wizard/ds-wizard/issues/new?assignees=&labels=Bug&template=bug_report.md&title=) and [asking questions](https://github.com/ds-wizard/ds-wizard/issues/new?assignees=&labels=Question&template=question.md&title=). For features requests and ideas we use different service [ideas.ds-wizard.org](https://ideas.ds-wizard.org).
 
-## Processing
+## :link: Useful links
 
-We will respond you ASAP on your reported bug and suggested an idea. 
+* Website: [ds-wizard.org](https://ds-wizard.org)
+* Ideas and feature requests: [ideas.ds-wizard.org](https://ideas.ds-wizard.org)
+* Documentation: [docs.ds-wizard.org](https://docs.ds-wizard.org)
+* JIRA: [ds-wizard.atlassian.net](http://ds-wizard.atlassian.net)
+* Email: [info@ds-wizard.org](mailto:info@ds-wizard.org)
 
-Issues / bugs / ideas which are selected for realization are then captured in Jira (http://ds-wizard.atlassian.net). So every issue / bug idea is transformed into Jira by us. Of course, we will leave it a link here so you can see the progress of it.
+## :inbox_tray: Processing
+
+We will respond you as soon as possible. 
+
+Issues which are selected for realization are then always put in Jira (http://ds-wizard.atlassian.net) by us. Of course, we will leave it a link in your GitHub issue so you can see the progress of it.
