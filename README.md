@@ -2,6 +2,18 @@
 
 This repository is mainly used for [reporting bugs](https://github.com/ds-wizard/ds-wizard/issues/new?assignees=&labels=Bug&template=bug_report.md&title=) and [asking questions](https://github.com/ds-wizard/ds-wizard/issues/new?assignees=&labels=Question&template=question.md&title=). For features requests and ideas we use different service [ideas.ds-wizard.org](https://ideas.ds-wizard.org).
 
+## :computer: DSW Repositories
+
+* **Frontend** application: [engine-frontend](https://github.com/ds-wizard/engine-frontend)
+* **Backend** application: [engine-backend](https://github.com/ds-wizard/engine-backend)
+* **Document Worker** component: [document-worker](https://github.com/ds-wizard/document-worker)
+* Local deployment example: [dsw-deployment-example](https://github.com/ds-wizard/dsw-deployment-example)
+
+## :bulb: Related Projects
+
+* **DSW Template Development Kit (TDK)**: [dsw-tdk](https://github.com/ds-wizard/dsw-tdk)
+* **DSW Python SDK**: [dsw-sdk](https://github.com/ds-wizard/dsw-sdk)
+
 ## :link: Useful links
 
 * Website: [ds-wizard.org](https://ds-wizard.org)
