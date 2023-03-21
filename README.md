@@ -6,19 +6,14 @@ This repository is mainly used for [reporting bugs](https://github.com/ds-wizard
 
 * **Frontend** application: [engine-frontend](https://github.com/ds-wizard/engine-frontend)
 * **Backend** application: [engine-backend](https://github.com/ds-wizard/engine-backend)
-* **Document Worker** component: [document-worker](https://github.com/ds-wizard/document-worker)
+* **Tools** components: [engine-tools](https://github.com/ds-wizard/engine-tools)
 * Local deployment example: [dsw-deployment-example](https://github.com/ds-wizard/dsw-deployment-example)
-
-## :bulb: Related Projects
-
-* **DSW Template Development Kit (TDK)**: [dsw-tdk](https://github.com/ds-wizard/dsw-tdk)
-* **DSW Python SDK**: [dsw-sdk](https://github.com/ds-wizard/dsw-sdk)
 
 ## :link: Useful links
 
 * Website: [ds-wizard.org](https://ds-wizard.org)
 * Ideas and feature requests: [ideas.ds-wizard.org](https://ideas.ds-wizard.org)
-* Documentation: [docs.ds-wizard.org](https://docs.ds-wizard.org)
+* Guide: [docs.ds-wizard.org](https://guide.ds-wizard.org)
 * JIRA: [ds-wizard.atlassian.net](http://ds-wizard.atlassian.net)
 * Email: [info@ds-wizard.org](mailto:info@ds-wizard.org)
 
