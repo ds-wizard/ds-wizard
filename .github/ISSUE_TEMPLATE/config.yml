@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: DSW Ideas
+    url: https://ideas.ds-wizard.org
+    about: Please check and eventually add new feature requests in our Ideas service.
+  - name: User Guide
+    url: https://guide.ds-wizard.org
+    about: Please check User Guide before reporting an issue, especially if you have an issue with your custom deployment.

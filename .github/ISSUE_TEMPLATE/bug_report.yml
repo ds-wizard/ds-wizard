@@ -1,0 +1,69 @@
+name: Bug report
+description: Create a report to help us improve
+title: "Bug appears"
+labels: ["Bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! Please check [previous reports](https://github.com/ds-wizard/ds-wizard/issues?q=is%3Aissue+label%3ABug+) to avoid duplication.
+  - type: dropdown
+    id: browser
+    attributes:
+      label: What web browser is used when the issue appears?
+      multiple: true
+      options:
+        - Chrome
+        - Edge
+        - Firefox
+        - Safari
+        - Other (specify in text)
+  - type: checkboxes
+    id: relation
+    attributes:
+      label: How are you using DSW while encountering the issue?
+      description: Select all that apply if you tried more.
+      options:
+        - label: Testing on localhost (dsw-deployment-example)
+        - label: Using DSW managed by someone else (specify in text)
+        - label: Using DSW that I manage
+  - type: checkboxes
+    id: components
+    attributes:
+      label: What parts of DSW are affected?
+      description: Select all parts of DSW that are affected by this issue.
+      options:
+        - label: "Dashboard"
+        - label: "Documents"
+        - label: "Document Template Editors"
+        - label: "Document Templates"
+        - label: "Locales"
+        - label: "Knowledge Model Editors"
+        - label: "Knowledge Models"
+        - label: "Project Importers"
+        - label: "Projects"
+        - label: "Settings"
+        - label: "Users and Authentication"
+  - type: textarea
+    id: version
+    attributes:
+      label: Version
+      description: Copy-paste versions of components from the "About" dialog.
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What steps you took? Also tell us, what did you expect to happen? Please add any relevant screenshots (but avoid sharing personal or sensitive information).
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output, e.g. from docker-compose logs (but avoid sharing personal or sensitive information). This will be automatically formatted into code, so no need for backticks.
+      render: plain text
