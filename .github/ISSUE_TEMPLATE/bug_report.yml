@@ -50,6 +50,7 @@ body:
     attributes:
       label: Version
       description: Copy-paste versions of components from the "About" dialog.
+      render: plain text
     validations:
       required: true
   - type: textarea
